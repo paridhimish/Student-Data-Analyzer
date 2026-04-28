@@ -1,19 +1,19 @@
-# Student Data Analyzer
+# Python Projects
 
-## Overview
-A Python project that analyzes student marks using pandas and visualizes results.
+## 1. Student Data Analyzer
+- Data analysis using pandas
+- Visualization using matplotlib
 
-## Features
-- User input for student data
-- Calculates average, highest, lowest marks
-- Assigns grades and ranks
-- Displays bar graph
-- Saves data to CSV
+## 2. Student Performance Predictor (ML)
+- Predicts student marks using:
+  - Study hours
+  - Attendance
+  - Previous marks
+- Model used: Random Forest Regressor
+- Evaluated using MAE
 
 ## Tech Stack
 - Python
 - Pandas
 - Matplotlib
-
-## How to Run
-Open the notebook in Google Colab and run all cells.
+- Scikit-learn
